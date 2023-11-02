@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Peaceful Placenta</name>
+    <directory>peaceful placenta</directory>
+    <id>3069943051</id>
+    <description>Placenta can now proc at 10-second intervals in cleared rooms. Credit to O_o for original Faster Placenta mod.</description>
+    <version>1.1</version>
+    <visibility>Public</visibility>
+    <tag id="Lua"/>
+    <tag id="Tweaks"/>
+</metadata>
